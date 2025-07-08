@@ -44,5 +44,4 @@ This project is a relational database-based system that manages university cours
 
 ---
 
-## 📂 Folder Structure
 
